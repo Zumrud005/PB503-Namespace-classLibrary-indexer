@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PB503-Namespace,list,indexer,Classlibrary/1.0.0": {
+        "dependencies": {
+          "ClassLibraryHelper": "1.0.0"
+        },
+        "runtime": {
+          "PB503-Namespace,list,indexer,Classlibrary.dll": {}
+        }
+      },
+      "ClassLibraryHelper/1.0.0": {
+        "runtime": {
+          "ClassLibraryHelper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB503-Namespace,list,indexer,Classlibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
